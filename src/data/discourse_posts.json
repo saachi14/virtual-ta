@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "topic_title": "GA5 Question 8 Clarification",
+    "cleaned_content": "You must use gpt-3.5-turbo-0125, even if the AI Proxy only supports gpt-4o-mini. Use the OpenAI API directly for this question. The question specifically asks for gpt-3.5-turbo-0125 model.",
+    "topic_url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/4",
+    "username": "instructor",
+    "created_at": "2025-04-10T10:00:00Z",
+    "keywords": ["gpt-3.5-turbo", "gpt-4o-mini", "openai", "api", "model"]
+  },
+  {
+    "id": 2,
+    "topic_title": "GA4 Data Sourcing Discussion Thread TDS Jan 2025",
+    "cleaned_content": "If a student scores 10/10 on GA4 as well as a bonus, it would appear as 110 on the dashboard. The dashboard shows the total score including bonus points.",
+    "topic_url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959/388",
+    "username": "instructor",
+    "created_at": "2025-04-08T14:20:00Z",
+    "keywords": ["ga4", "bonus", "dashboard", "score", "110"]
+  },
+  {
+    "id": 3,
+    "topic_title": "Docker vs Podman Discussion",
+    "cleaned_content": "While you can use Docker if you're familiar with it, we recommend using Podman for this course as it's what we'll be teaching and supporting. Podman is more secure and doesn't require root privileges. However, Docker is acceptable if you prefer it.",
+    "topic_url": "https://tds.s-anand.net/#/docker",
+    "username": "instructor",
+    "created_at": "2025-03-15T09:30:00Z",
+    "keywords": ["docker", "podman", "container", "course", "recommend"]
+  },
+  {
+    "id": 4,
+    "topic_title": "Course Schedule and Exam Dates",
+    "cleaned_content": "The TDS Jan 2025 course schedule is available. For future courses like Sep 2025, exam dates are not yet announced and will be updated closer to the course start date.",
+    "topic_url": "https://discourse.onlinedegree.iitm.ac.in/t/course-schedule/123456",
+    "username": "admin",
+    "created_at": "2025-01-15T11:00:00Z",
+    "keywords": ["exam", "schedule", "dates", "tds", "september"]
+  }
+]
